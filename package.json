@@ -2,7 +2,7 @@
   "name": "react-form",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://GaneshKosuri07.github.io/react-form",
+  "homepage": "https://GaneshKosuri07.github.io/form",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
