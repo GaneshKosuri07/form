@@ -59,6 +59,37 @@ const RegistrationForm = () => {
   );
 };
 
-
+const styles = {
+  container: {
+    maxWidth: '400px',
+    margin: '50px auto',
+    padding: '20px',
+    border: '1px solid #ddd',
+    borderRadius: '10px',
+    boxShadow: '0 0 10px #ccc',
+    textAlign: 'center',
+    fontFamily: 'Arial, sans-serif'
+  },
+  form: {
+    display: 'flex',
+    flexDirection: 'column',
+    gap: '15px'
+  },
+  input: {
+    padding: '10px',
+    fontSize: '16px',
+    borderRadius: '5px',
+    border: '1px solid #ccc'
+  },
+  button: {
+    padding: '10px',
+    fontSize: '16px',
+    backgroundColor: '#007bff',
+    color: '#fff',
+    border: 'none',
+    borderRadius: '5px',
+    cursor: 'pointer'
+  }
+};
 
 export default RegistrationForm;
